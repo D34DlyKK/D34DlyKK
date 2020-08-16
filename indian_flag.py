@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as py
 import matplotlib.patches as patch
 #Plotting the tri colours in national flag
-print("Script by Hacknomus(D34DlyKK)")
+print('Jai Hind !!!')
 a = patch.Rectangle((0,1), width=12, height=2, facecolor='green', edgecolor='grey')
 b = patch.Rectangle((0,3), width=12, height=2, facecolor='white', edgecolor='grey')
 c = patch.Rectangle((0,5), width=12, height=2, facecolor='#FF9933', edgecolor='grey')
@@ -27,3 +27,4 @@ for i in range(0,24):
    n.add_patch(patch.Polygon([[6,4], [p,r], [t,u],[q,s]], fill=True, closed=True, color='#000088ff'))
 py.axis('equal')
 py.show() 
+print("Script by Hacknomus(D34DlyKK)")
