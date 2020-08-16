@@ -10,13 +10,13 @@
 
 Then:
 
-git clone https://github.com/D34DlyKK/Indian_Flag.git
+> git clone https://github.com/D34DlyKK/Indian_Flag.git
 
-cd Indian_Flag
+> cd Indian_Flag
 
-chmod 777 indian_flag.py
+> chmod 777 indian_flag.py
 
-python indian_flag.py
+> python indian_flag.py
 
 #May not Work in Termux due to lack of GUI in it
 
