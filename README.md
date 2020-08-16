@@ -2,6 +2,8 @@
 
 #You have to run following command first to install necessary packages
 
+#Recommended OS --> Linux
+
 $ apt-get update && apt-get upgrade -y && apt-get install git && apt-get install python -y && python -m pip install -U pip -y && python -m pip install -U matplotlib -y && apt-get install python-tk -y && pip install numpy
 
 #This Process will Take 10-15 minutes depends on your internet speed, so keep patience :)
@@ -16,4 +18,5 @@ chmod 777 indian_flag.py
 
 python indian_flag.py
 
+#May not Work in Termux due to lack of GUI in it
 #Script by Hacknomus(D34DlyKK)
