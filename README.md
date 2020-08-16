@@ -4,7 +4,7 @@
 
 $ apt-get update && apt-get upgrade -y && apt-get install git && apt-get install python -y && python -m pip install -U pip -y && python -m pip install -U matplotlib -y && apt-get install python-tk -y && pip install numpy
 
-#This Process will Take 10-15 minutes, so keep patience :)
+#This Process will Take 10-15 minutes depends on your internet speed, so keep patience :)
 
 Then:
 
