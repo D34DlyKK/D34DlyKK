@@ -19,4 +19,5 @@ chmod 777 indian_flag.py
 python indian_flag.py
 
 #May not Work in Termux due to lack of GUI in it
-#Script by Hacknomus(D34DlyKK)
+
+##Script by Hacknomus(D34DlyKK)
